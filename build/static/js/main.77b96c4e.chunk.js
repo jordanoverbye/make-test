@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-template-name"]=this["webpackJsonpmy-template-name"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n(1),o=n.n(c),a=n(3);function d(){var e=window.templateProps,t=void 0===e?{}:e;return Object(r.jsx)("div",{style:{backgroundColor:"red",padding:200},children:Object(r.jsxs)("p",{children:["Hello: ",t.name,"!"]})})}n.n(a).a.render(Object(r.jsx)(o.a.StrictMode,{children:Object(r.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.77b96c4e.chunk.js.map
